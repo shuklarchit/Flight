@@ -194,8 +194,3 @@ Database port is correct
 ## Purpose of the Project
 
 The purpose of this project is mainly educational. This project helps in understanding Java GUI development, object-oriented programming, JDBC, and the basic structure of a desktop-based management system.
-
-
-## Contributing
-
-If you would like to contribute to this project, you can modify the existing modules or add new ones. Any suggestions and improvements are welcome.
