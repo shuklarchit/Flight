@@ -180,15 +180,23 @@ Database port is correct
 
 ## Future Improvements
 
-=> Some of the features that can be added to the project to make it more production-ready in the future are:
+Some of the features that can be added to the project to make it more production-ready in the future are:
 => Better login and user roles
+
 => Online flight search
+
 => Improved ticket generation
+
 => Email confirmation for bookings
+
 => Payment integration
+
 => Better database security
+
 => Improved UI design
+
 => Admin dashboard
+
 => Search and filter options for flights and passengers
 
 ## Purpose of the Project
